@@ -4,7 +4,6 @@
 // void main(int argc, char* argv[]){
 //     char string1[] = "hello";
 //     char string2[] = "World";
-//     //char *string3 = &string2;
 //     int i;
 //     for(i = 0; i < 5; i++){
 //         char *first = &string1[i];
